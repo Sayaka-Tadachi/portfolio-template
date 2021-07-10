@@ -113,7 +113,7 @@ main {
 }
 .P1_1 {
     width: 30%;
-    background-image: url(/images/chair\ with\ clothes.jpg);
+    background-image: url(chair\ with\ clothes.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-position-x: -30%;
@@ -121,7 +121,7 @@ main {
 }
 .P1_2 {
     width: 30%;
-    background-image: url(/images/salon.jpg);
+    background-image: url(salon.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-position-x: center;     
@@ -129,7 +129,7 @@ main {
 
 .P1_3 {
     width: 30%;
-    background-image: url(/images/tadachi_design.jpg);
+    background-image: url(tadachi_design.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-position-x: 60%;
@@ -147,7 +147,7 @@ main {
 }
 .P2_1 {
     width: 30%;
-    background-image: url(/images/moon\ and\ wolf.jpg);
+    background-image: url(moon\ and\ wolf.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-position-x: center;
@@ -155,7 +155,7 @@ main {
 }
 .P2_2 {
     width: 30%;
-    background-image: url(/images/BJW6.jpg);
+    background-image: url(BJW6.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-position-x: center; 
@@ -178,7 +178,7 @@ main {
 }
 .R1_1 {
     width: 30%;
-    background-image: url(/images/Brownie.jpg);
+    background-image: url(Brownie.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-position-x: center;

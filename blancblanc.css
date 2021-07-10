@@ -20,7 +20,7 @@ h3 {
     margin-right: auto;
 }
 .photo1 {
-    background-image: url(/images/woman\ wearing\ striped\ pants.jpg);
+    background-image: url(woman\ wearing\ striped\ pants.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -31,7 +31,7 @@ h3 {
 }
 
 .photo2 {
-    background-image: url(/images/smiling\ man.jpg);
+    background-image: url(smiling\ man.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -41,7 +41,7 @@ h3 {
 }
 
 .photo3 {
-    background-image: url(/images/university\ student.jpg);
+    background-image: url(university\ student.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
